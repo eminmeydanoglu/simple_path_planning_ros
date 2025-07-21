@@ -1,0 +1,4 @@
+<launch>
+    <node name="path_planner_node" pkg="simple_path_planning" type="path_planner_node.py" output="screen">
+    </node>
+</launch>
